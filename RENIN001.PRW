@@ -6,7 +6,7 @@
 #INCLUDE "TBICONN.CH"
 #include 'TopConn.CH'
 
-
+//teste alteracao
 //-------------------------------------------------------------------
 /*/{Protheus.doc} RENIN001
 proposta comercial customizada para locação
